@@ -22,6 +22,5 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ca%C3%A7ador-5453892ba/)
 
-###
 
- ![Snake animation](https://github.com/PedroPochyly/PedroPochyly/blob/output/github-contribution-grid-snake.svg)
+
